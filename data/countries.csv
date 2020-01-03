@@ -1,0 +1,240 @@
+"country_id","country_name","native_name","full_country_name","region","sub_region","capital","population","area"
+"AFG","Afghanistan","افغانستان","Islamic Republic of Afghanistan","Asia","Southern Asia","Kabul",26023100,652230
+"ALB","Albania","Shqipëria","Republic of Albania","Europe","Southern Europe","Tirana",2893005,28748
+"DZA","Algeria","الجزائر","People's Democratic Republic of Algeria","Africa","Northern Africa","Algiers",39500000,2381741
+"ASM","American Samoa","American Samoa","Territory of American Samoa","Oceania","Polynesia","Pago Pago",55519,199
+"AND","Andorra","Andorra","Principality of Andorra","Europe","Southern Europe","Andorra la Vella",76949,468
+"AGO","Angola","Angola","Republic of Angola","Africa","Middle Africa","Luanda",24383301,1246700
+"AIA","Anguilla","Anguilla","Anguilla","Americas","Caribbean","The Valley",13452,91
+"ATA","Antarctica","Antarctica","Antarctica","Antarctica","Antarctica",,135,14000000
+"ATG","Antigua and Barbuda","Antigua and Barbuda","Antigua and Barbuda","Americas","Caribbean","Saint John's",86295,442
+"ARG","Argentina","Argentina","Argentine Republic","Americas","South America","Buenos Aires",43131966,2780400
+"ARM","Armenia","Հայաստան","Republic of Armenia","Asia","Western Asia","Yerevan",3006800,29743
+"ABW","Aruba","Aruba","Aruba","Americas","Caribbean","Oranjestad",107394,180
+"AUS","Australia","Australia","Commonwealth of Australia","Oceania","Australia and New Zealand","Canberra",23868800,7692024
+"AUT","Austria","Österreich","Republic of Austria","Europe","Western Europe","Vienna",8602112,83871
+"AZE","Azerbaijan","Azərbaycan","Republic of Azerbaijan","Asia","Western Asia","Baku",9636300,86600
+"BHR","Bahrain","‏البحرين","Kingdom of Bahrain","Asia","Western Asia","Manama",1359800,765
+"BGD","Bangladesh","Bangladesh","People's Republic of Bangladesh","Asia","Southern Asia","Dhaka",158875000,147570
+"BRB","Barbados","Barbados","Barbados","Americas","Caribbean","Bridgetown",285000,430
+"BLR","Belarus","Белару́сь","Republic of Belarus","Europe","Eastern Europe","Minsk",9485300,207600
+"BEL","Belgium","België","Kingdom of Belgium","Europe","Western Europe","Brussels",11248330,30528
+"BLZ","Belize","Belize","Belize","Americas","Central America","Belmopan",368310,22966
+"BEN","Benin","Bénin","Republic of Benin","Africa","Western Africa","Porto-Novo",10315244,112622
+"BMU","Bermuda","Bermuda","Bermuda","Americas","Northern America","Hamilton",64237,54
+"BTN","Bhutan","ʼbrug-yul","Kingdom of Bhutan","Asia","Southern Asia","Thimphu",763920,38394
+"BOL","Bolivia","Bolivia","Plurinational State of Bolivia","Americas","South America","Sucre",11410651,1098581
+"BIH","Bosnia and Herzegovina","Bosna i Hercegovina","Bosnia and Herzegovina","Europe","Southern Europe","Sarajevo",3791622,51209
+"BWA","Botswana","Botswana","Republic of Botswana","Africa","Southern Africa","Gaborone",2070984,582000
+"BRA","Brazil","Brasil","Federative Republic of Brazil","Americas","South America","Brasília",204772000,8515767
+"IOT","British Indian Ocean Territory","British Indian Ocean Territory","British Indian Ocean Territory","Africa","Eastern Africa","Diego Garcia",3000,60
+"VGB","British Virgin Islands","British Virgin Islands","Virgin Islands of Great Britain","Americas","Caribbean","Road Town",28054,151
+"BRN","Brunei","Negara Brunei Darussalam","Nation of Brunei, Abode of Peace","Asia","South-Eastern Asia","Bandar Seri Begawan",393372,5765
+"BGR","Bulgaria","България","Republic of Bulgaria","Europe","Eastern Europe","Sofia",7202198,110879
+"BFA","Burkina Faso","Burkina Faso","Burkina Faso","Africa","Western Africa","Ouagadougou",18450494,272967
+"BDI","Burundi","Burundi","Republic of Burundi","Africa","Eastern Africa","Bujumbura",9823827,27834
+"KHM","Cambodia","Kâmpŭchéa","Kingdom of Cambodia","Asia","South-Eastern Asia","Phnom Penh",15405157,181035
+"CMR","Cameroon","Cameroon","Republic of Cameroon","Africa","Middle Africa","Yaoundé",23344000,475442
+"CAN","Canada","Canada","Canada","Americas","Northern America","Ottawa",35749600,9984670
+"CPV","Cape Verde","Cabo Verde","Republic of Cabo Verde","Africa","Western Africa","Praia",524833,4033
+"CYM","Cayman Islands","Cayman Islands","Cayman Islands","Americas","Caribbean","George Town",58238,264
+"CAF","Central African Republic","Ködörösêse tî Bêafrîka","Central African Republic","Africa","Middle Africa","Bangui",4900000,622984
+"TCD","Chad","Tchad","Republic of Chad","Africa","Middle Africa","N'Djamena",14037000,1284000
+"CHL","Chile","Chile","Republic of Chile","Americas","South America","Santiago",18006407,756102
+"CHN","China","中国","People's Republic of China","Asia","Eastern Asia","Beijing",1371590000,9640011
+"COL","Colombia","Colombia","Republic of Colombia","Americas","South America","Bogotá",48266600,1141748
+"COM","Comoros","Komori","Union of the Comoros","Africa","Eastern Africa","Moroni",784745,1862
+"COK","Cook Islands","Cook Islands","Cook Islands","Oceania","Polynesia","Avarua",14974,236
+"CRI","Costa Rica","Costa Rica","Republic of Costa Rica","Americas","Central America","San José",4773130,51100
+"HRV","Croatia","Hrvatska","Republic of Croatia","Europe","Southern Europe","Zagreb",4246800,56594
+"CUB","Cuba","Cuba","Republic of Cuba","Americas","Caribbean","Havana",11238317,109884
+"CUW","Curaçao","Curaçao","Curaçao","Americas","Caribbean","Willemstad",154843,444
+"CYP","Cyprus","Κύπρος","Republic of Cyprus","Europe","Southern Europe","Nicosia",858000,9251
+"CZE","Czech Republic","Česká republika","Czech Republic","Europe","Eastern Europe","Prague",10537818,78865
+"COD","Democratic Republic of the Congo","République démocratique du Congo","Democratic Republic of the Congo","Africa","Middle Africa","Kinshasa",77267000,2344858
+"DNK","Denmark","Danmark","Kingdom of Denmark","Europe","Northern Europe","Copenhagen",5678348,43094
+"DJI","Djibouti","Djibouti","Republic of Djibouti","Africa","Eastern Africa","Djibouti",888000,23200
+"DMA","Dominica","Dominica","Commonwealth of Dominica","Americas","Caribbean","Roseau",71293,751
+"DOM","Dominican Republic","República Dominicana","Dominican Republic","Americas","Caribbean","Santo Domingo",10528000,48671
+"TLS","East Timor","Timor-Leste","Democratic Republic of Timor-Leste","Asia","South-Eastern Asia","Dili",1212107,14874
+"ECU","Ecuador","Ecuador","Republic of Ecuador","Americas","South America","Quito",16027500,276841
+"EGY","Egypt","مصر‎","Arab Republic of Egypt","Africa","Northern Africa","Cairo",89335600,1002450
+"SLV","El Salvador","El Salvador","Republic of El Salvador","Americas","Central America","San Salvador",6401240,21041
+"ENG","England","England","England","Europe","Northern Europe","London",54786300,130279
+"GNQ","Equatorial Guinea","Guinea Ecuatorial","Republic of Equatorial Guinea","Africa","Middle Africa","Malabo",1430000,28051
+"ERI","Eritrea","ኤርትራ","State of Eritrea","Africa","Eastern Africa","Asmara",5228000,117600
+"EST","Estonia","Eesti","Republic of Estonia","Europe","Northern Europe","Tallinn",1313271,45227
+"ETH","Ethiopia","ኢትዮጵያ","Federal Democratic Republic of Ethiopia","Africa","Eastern Africa","Addis Ababa",90076012,1104300
+"FLK","Falkland Islands","Falkland Islands","Falkland Islands","Americas","South America","Stanley",3000,12173
+"FRO","Faroe Islands","Føroyar","Faroe Islands","Europe","Northern Europe","Tórshavn",48846,1393
+"FSM","Federated States of Micronesia","Micronesia","Federated States of Micronesia","Oceania","Micronesia","Palikir",101351,702
+"FJI","Fiji","Fiji","Republic of Fiji","Oceania","Melanesia","Suva",859178,18272
+"FIN","Finland","Suomi","Republic of Finland","Europe","Northern Europe","Helsinki",5485215,338424
+"FRA","France","France","French Republic","Europe","Western Europe","Paris",66186000,640679
+"GUF","French Guiana","Guyane française","Guiana","Americas","South America","Cayenne",239648,83534
+"PYF","French Polynesia","Polynésie française","French Polynesia","Oceania","Polynesia","Papeetē",268270,4167
+"GAB","Gabon","Gabon","Gabonese Republic","Africa","Middle Africa","Libreville",1725000,267668
+"GEO","Georgia","საქართველო","Georgia","Asia","Western Asia","Tbilisi",3729500,69700
+"DEU","Germany","Deutschland","Federal Republic of Germany","Europe","Western Europe","Berlin",81083600,357114
+"GHA","Ghana","Ghana","Republic of Ghana","Africa","Western Africa","Accra",27043093,238533
+"GIB","Gibraltar","Gibraltar","Gibraltar","Europe","Southern Europe","Gibraltar",32734,6
+"GRC","Greece","Ελλάδα","Hellenic Republic","Europe","Southern Europe","Athens",10846979,131990
+"GRL","Greenland","Kalaallit Nunaat","Greenland","Americas","Northern America","Nuuk",56114,2166086
+"GRD","Grenada","Grenada","Grenada","Americas","Caribbean","St. George's",103328,344
+"GLP","Guadeloupe","Guadeloupe","Guadeloupe","Americas","Caribbean","Basse-Terre",403750,1628
+"GUM","Guam","Guam","Territory of Guam","Oceania","Micronesia","Hagåtña",159358,549
+"GTM","Guatemala","Guatemala","Republic of Guatemala","Americas","Central America","Guatemala City",16176133,108889
+"GGY","Guernsey","Guernsey","Guernsey","Europe","Northern Europe","St. Peter Port",65150,78
+"GIN","Guinea","Guinée","Republic of Guinea","Africa","Western Africa","Conakry",10628972,245857
+"GNB","Guinea-Bissau","Guiné-Bissau","Republic of Guinea-Bissau","Africa","Western Africa","Bissau",1844000,36125
+"GUY","Guyana","Guyana","Co-operative Republic of Guyana","Americas","South America","Georgetown",746900,214969
+"HTI","Haiti","Haïti","Republic of Haiti","Americas","Caribbean","Port-au-Prince",10911819,27750
+"HND","Honduras","Honduras","Republic of Honduras","Americas","Central America","Tegucigalpa",8725111,112492
+"HKG","Hong Kong","香港","Hong Kong Special Administrative Region of the People's Republic of China","Asia","Eastern Asia","City of Victoria",7298600,1104
+"HUN","Hungary","Magyarország","Hungary","Europe","Eastern Europe","Budapest",9849000,93028
+"ISL","Iceland","Ísland","Iceland","Europe","Northern Europe","Reykjavík",330610,103000
+"IND","India","भारत","Republic of India","Asia","Southern Asia","New Delhi",1275840000,3287590
+"IDN","Indonesia","Indonesia","Republic of Indonesia","Asia","South-Eastern Asia","Jakarta",255461700,1904569
+"CIV","Ivory Coast","Côte d'Ivoire","Ivory Coast","Africa","Western Africa","Yamoussoukro",22671331,322463
+"IRN","Iran","ایران","Islamic Republic of Iran","Asia","Southern Asia","Tehran",78572500,1648195
+"IRQ","Iraq","العراق","Republic of Iraq","Asia","Western Asia","Baghdad",36004552,438317
+"IRL","Ireland","Éire","Republic of Ireland","Europe","Northern Europe","Dublin",6378000,70273
+"IMN","Isle of Man","Isle of Man","Isle of Man","Europe","Northern Europe","Douglas",84497,572
+"ISR","Israel","יִשְׂרָאֵל","State of Israel","Asia","Western Asia","Jerusalem",8371600,20770
+"ITA","Italy","Italia","Italian Republic","Europe","Southern Europe","Rome",60753794,301336
+"JAM","Jamaica","Jamaica","Jamaica","Americas","Caribbean","Kingston",2717991,10991
+"JPN","Japan","日本","Japan","Asia","Eastern Asia","Tokyo",126865000,377930
+"JEY","Jersey","Jersey","Bailiwick of Jersey","Europe","Northern Europe","Saint Helier",99000,116
+"JOR","Jordan","الأردن","Hashemite Kingdom of Jordan","Asia","Western Asia","Amman",6767600,89342
+"KAZ","Kazakhstan","Қазақстан","Republic of Kazakhstan","Asia","Central Asia","Astana",17541200,2724900
+"KEN","Kenya","Kenya","Republic of Kenya","Africa","Eastern Africa","Nairobi",46050000,580367
+"KIR","Kiribati","Kiribati","Republic of Kiribati","Oceania","Micronesia","South Tarawa",106461,811
+"KOS","Kosovo","Republika e Kosovës","Republic of Kosovo","Europe","Eastern Europe","Pristina",1733842,10908
+"KWT","Kuwait","الكويت","State of Kuwait","Asia","Western Asia","Kuwait City",3268431,17818
+"KGZ","Kyrgyzstan","Кыргызстан","Kyrgyz Republic","Asia","Central Asia","Bishkek",5944400,199951
+"LAO","Laos","ສປປລາວ","Lao People's Democratic Republic","Asia","South-Eastern Asia","Vientiane",6802000,236800
+"LVA","Latvia","Latvija","Republic of Latvia","Europe","Northern Europe","Riga",1980700,64559
+"LBN","Lebanon","لبنان","Lebanese Republic","Asia","Western Asia","Beirut",4104000,10452
+"LSO","Lesotho","Lesotho","Kingdom of Lesotho","Africa","Southern Africa","Maseru",2135000,30355
+"LBR","Liberia","Liberia","Republic of Liberia","Africa","Western Africa","Monrovia",4503000,111369
+"LBY","Libya","‏ليبيا","State of Libya","Africa","Northern Africa","Tripoli",6278000,1759540
+"LIE","Liechtenstein","Liechtenstein","Principality of Liechtenstein","Europe","Western Europe","Vaduz",37370,160
+"LTU","Lithuania","Lietuva","Republic of Lithuania","Europe","Northern Europe","Vilnius",2900787,65300
+"LUX","Luxembourg","Luxembourg","Grand Duchy of Luxembourg","Europe","Western Europe","Luxembourg",562958,2586
+"MAC","Macau","澳門","Macao Special Administrative Region of the People's Republic of China","Asia","Eastern Asia",,642900,30
+"MKD","Macedonia","Македонија","Republic of Macedonia","Europe","Southern Europe","Skopje",2058539,25713
+"MDG","Madagascar","Madagasikara","Republic of Madagascar","Africa","Eastern Africa","Antananarivo",22434363,587041
+"MWI","Malawi","Malawi","Republic of Malawi","Africa","Eastern Africa","Lilongwe",16310431,118484
+"MYS","Malaysia","Malaysia","Malaysia","Asia","South-Eastern Asia","Kuala Lumpur",30678800,330803
+"MDV","Maldives","Maldives","Republic of Maldives","Asia","Southern Asia","Malé",341256,300
+"MLI","Mali","Mali","Republic of Mali","Africa","Western Africa","Bamako",17600000,1240192
+"MLT","Malta","Malta","Republic of Malta","Europe","Southern Europe","Valletta",445426,316
+"MHL","Marshall Islands","M̧ajeļ","Republic of the Marshall Islands","Oceania","Micronesia","Majuro",56086,181
+"MTQ","Martinique","Martinique","Martinique","Americas","Caribbean","Fort-de-France",381326,1128
+"MRT","Mauritania","موريتانيا","Islamic Republic of Mauritania","Africa","Western Africa","Nouakchott",3631775,1030700
+"MUS","Mauritius","Maurice","Republic of Mauritius","Africa","Eastern Africa","Port Louis",1261208,2040
+"MYT","Mayotte","Mayotte","Department of Mayotte","Africa","Eastern Africa","Mamoudzou",212645,374
+"MEX","Mexico","México","United Mexican States","Americas","Central America","Mexico City",121740000,1964375
+"MDA","Moldova","Moldova","Republic of Moldova","Europe","Eastern Europe","Chișinău",3555200,33846
+"MCO","Monaco","Monaco","Principality of Monaco","Europe","Western Europe","Monaco",37800,2
+"MNG","Mongolia","Монгол улс","Mongolia","Asia","Eastern Asia","Ulan Bator",3031099,1564110
+"MNE","Montenegro","Црна Гора","Montenegro","Europe","Southern Europe","Podgorica",621207,13812
+"MSR","Montserrat","Montserrat","Montserrat","Americas","Caribbean","Plymouth",4922,102
+"MAR","Morocco","المغرب","Kingdom of Morocco","Africa","Northern Africa","Rabat",33337529,446550
+"MOZ","Mozambique","Moçambique","Republic of Mozambique","Africa","Eastern Africa","Maputo",25727911,801590
+"MMR","Myanmar","Myanma","Republic of the Union of Myanmar","Asia","South-Eastern Asia","Naypyidaw",53897000,676578
+"NAM","Namibia","Namibia","Republic of Namibia","Africa","Southern Africa","Windhoek",2280700,825615
+"NRU","Nauru","Nauru","Republic of Nauru","Oceania","Micronesia","Yaren",10084,21
+"NPL","Nepal","नेपाल","Federal Democratic Republic of Nepal","Asia","Southern Asia","Kathmandu",28037904,147181
+"NLD","Netherlands","Nederland","Kingdom of the Netherlands","Europe","Western Europe","Amsterdam",16916000,41850
+"NCL","New Caledonia","Nouvelle-Calédonie","New Caledonia","Oceania","Melanesia","Nouméa",268767,18575
+"NZL","New Zealand","New Zealand","New Zealand","Oceania","Australia and New Zealand","Wellington",4609440,270467
+"NIC","Nicaragua","Nicaragua","Republic of Nicaragua","Americas","Central America","Managua",6198154,130373
+"NER","Niger","Niger","Republic of Niger","Africa","Western Africa","Niamey",19899000,1267000
+"NGA","Nigeria","Nigeria","Federal Republic of Nigeria","Africa","Western Africa","Abuja",182202000,923768
+"PRK","North Korea","북한","Democratic People's Republic of Korea","Asia","Eastern Asia","Pyongyang",25155000,120538
+"NIR","Northern Ireland","Northern Ireland","Northern Ireland","Europe","Northern Europe","Belfast",1861200,14130
+"MNP","Northern Mariana Islands","Northern Mariana Islands","Commonwealth of the Northern Mariana Islands","Oceania","Micronesia","Saipan",53883,464
+"NOR","Norway","Norge","Kingdom of Norway","Europe","Northern Europe","Oslo",5176998,323802
+"OMN","Oman","عمان","Sultanate of Oman","Asia","Western Asia","Muscat",4185440,309500
+"PAK","Pakistan","Pakistan","Islamic Republic of Pakistan","Asia","Southern Asia","Islamabad",190668000,881912
+"PLW","Palau","Palau","Republic of Palau","Oceania","Micronesia","Ngerulmud",20901,459
+"PSE","Palestine","فلسطين","State of Palestine","Asia","Western Asia","Ramallah",4682467,6220
+"PAN","Panama","Panamá","Republic of Panama","Americas","Central America","Panama City",3764166,75417
+"PNG","Papua New Guinea","Papua Niugini","Independent State of Papua New Guinea","Oceania","Melanesia","Port Moresby",7398500,462840
+"PRY","Paraguay","Paraguay","Republic of Paraguay","Americas","South America","Asunción",7003406,406752
+"PER","Peru","Perú","Republic of Peru","Americas","South America","Lima",31151643,1285216
+"PHL","Philippines","Pilipinas","Republic of the Philippines","Asia","South-Eastern Asia","Manila",101920000,342353
+"POL","Poland","Polska","Republic of Poland","Europe","Eastern Europe","Warsaw",38484000,312679
+"PRT","Portugal","Portugal","Portuguese Republic","Europe","Southern Europe","Lisbon",10374822,92090
+"PRI","Puerto Rico","Puerto Rico","Commonwealth of Puerto Rico","Americas","Caribbean","San Juan",3548397,8870
+"QAT","Qatar","قطر","State of Qatar","Asia","Western Asia","Doha",2120129,11586
+"COG","Republic of the Congo","République du Congo","Republic of the Congo","Africa","Middle Africa","Brazzaville",4620000,342000
+"REU","Réunion","La Réunion","Réunion","Africa","Eastern Africa","Saint-Denis",840974,2511
+"ROU","Romania","România","Romania","Europe","Eastern Europe","Bucharest",19942642,238391
+"RUS","Russia","Россия","Russian Federation","Europe","Eastern Europe","Moscow",146556330,17124442
+"RWA","Rwanda","Rwanda","Republic of Rwanda","Africa","Eastern Africa","Kigali",11262564,26338
+"BLM","Saint Barthélemy","Saint-Barthélemy","Saint Barthélemy","Americas","Caribbean","Gustavia",9269,21
+"SHN","Saint Helena, Ascension and Tristan da Cunha","Saint Helena","Saint Helena, Ascension and Tristan da Cunha","Africa","Western Africa","Jamestown",4255,394
+"KNA","Saint Kitts and Nevis","Saint Kitts and Nevis","Federation of Saint Christopher and Nevis","Americas","Caribbean","Basseterre",56000,261
+"LCA","Saint Lucia","Saint Lucia","Saint Lucia","Americas","Caribbean","Castries",185000,616
+"SPM","Saint Pierre and Miquelon","Saint-Pierre-et-Miquelon","Saint Pierre and Miquelon","Americas","Northern America","Saint-Pierre",6069,242
+"VCT","Saint Vincent and the Grenadines","Saint Vincent and the Grenadines","Saint Vincent and the Grenadines","Americas","Caribbean","Kingstown",109991,389
+"MAF","Saint-Martin & Sint Maarten","Saint-Martin & Sint Maarten","Saint-Martin & Sint Maarten","Americas","Caribbean","Marigot, Philipsburg",74408,87
+"WSM","Samoa","Samoa","Independent State of Samoa","Oceania","Polynesia","Apia",187820,2842
+"SMR","San Marino","San Marino","Republic of San Marino","Europe","Southern Europe","City of San Marino",32831,61
+"STP","São Tomé and Príncipe","São Tomé e Príncipe","São Tomé and Príncipe","Africa","Middle Africa","São Tomé",187356,964
+"SAU","Saudi Arabia","العربية السعودية","Kingdom of Saudi Arabia","Asia","Western Asia","Riyadh",31521418,2149690
+"SCO","Scotland","Scotland","Scotland","Europe","Northern Europe","Edinburgh",5373000,77933
+"SEN","Senegal","Sénégal","Republic of Senegal","Africa","Western Africa","Dakar",13508715,196722
+"SRB","Serbia","Србија","Republic of Serbia","Europe","Southern Europe","Belgrade",7114393,88361
+"SYC","Seychelles","Seychelles","Republic of Seychelles","Africa","Eastern Africa","Victoria",89949,452
+"SLE","Sierra Leone","Sierra Leone","Republic of Sierra Leone","Africa","Western Africa","Freetown",6453000,71740
+"SGP","Singapore","Singapore","Republic of Singapore","Asia","South-Eastern Asia","Singapore",5469700,710
+"SVK","Slovakia","Slovensko","Slovak Republic","Europe","Eastern Europe","Bratislava",5421349,49037
+"SVN","Slovenia","Slovenija","Republic of Slovenia","Europe","Southern Europe","Ljubljana",2067683,20273
+"SLB","Solomon Islands","Solomon Islands","Solomon Islands","Oceania","Melanesia","Honiara",581344,28896
+"SOM","Somalia","Soomaaliya","Federal Republic of Somalia","Africa","Eastern Africa","Mogadishu",10787000,637657
+"ZAF","South Africa","South Africa","Republic of South Africa","Africa","Southern Africa","Pretoria",54956900,1221037
+"KOR","South Korea","대한민국","Republic of Korea","Asia","Eastern Asia","Seoul",51448183,100210
+"SSD","South Sudan","South Sudan","Republic of South Sudan","Africa","Middle Africa","Juba",11892934,619745
+"ESP","Spain","España","Kingdom of Spain","Europe","Southern Europe","Madrid",46439864,505992
+"LKA","Sri Lanka","śrī laṃkāva","Democratic Socialist Republic of Sri Lanka","Asia","Southern Asia","Colombo",20675000,65610
+"SDN","Sudan","السودان","Republic of the Sudan","Africa","Northern Africa","Khartoum",38435252,1886068
+"SUR","Suriname","Suriname","Republic of Suriname","Americas","South America","Paramaribo",534189,163820
+"SJM","Svalbard and Jan Mayen","Svalbard og Jan Mayen","Svalbard and Jan Mayen","Europe","Northern Europe","Longyearbyen",2562,61399
+"SWZ","Swaziland","Swaziland","Kingdom of Swaziland","Africa","Southern Africa","Lobamba",1119375,17364
+"SWE","Sweden","Sverige","Kingdom of Sweden","Europe","Northern Europe","Stockholm",9793172,450295
+"CHE","Switzerland","Schweiz","Swiss Confederation","Europe","Western Europe","Bern",8256000,41284
+"SYR","Syria","سوريا","Syrian Arab Republic","Asia","Western Asia","Damascus",23339517,185180
+"TWN","Taiwan","臺灣","Republic of China","Asia","Eastern Asia","Taipei",23461708,36193
+"TJK","Tajikistan","Тоҷикистон","Republic of Tajikistan","Asia","Central Asia","Dushanbe",8354000,143100
+"TZA","Tanzania","Tanzania","United Republic of Tanzania","Africa","Eastern Africa","Dodoma",53470000,945087
+"THA","Thailand","ประเทศไทย","Kingdom of Thailand","Asia","South-Eastern Asia","Bangkok",65104000,513120
+"BHS","The Bahamas","Bahamas","Commonwealth of the Bahamas","Americas","Caribbean","Nassau",368390,13943
+"GMB","The Gambia","Gambia","Islamic Republic of the Gambia","Africa","Western Africa","Banjul",1882450,11295
+"TGO","Togo","Togo","Togolese Republic","Africa","Western Africa","Lomé",7305000,56785
+"TON","Tonga","Tonga","Kingdom of Tonga","Oceania","Polynesia","Nuku'alofa",103252,747
+"TTO","Trinidad and Tobago","Trinidad and Tobago","Republic of Trinidad and Tobago","Americas","Caribbean","Port of Spain",1340557,5130
+"TUN","Tunisia","تونس","Republic of Tunisia","Africa","Northern Africa","Tunis",10982754,163610
+"TUR","Turkey","Türkiye","Republic of Turkey","Asia","Western Asia","Ankara",77695904,783562
+"TKM","Turkmenistan","Türkmenistan","Turkmenistan","Asia","Central Asia","Ashgabat",4751120,488100
+"TCA","Turks and Caicos Islands","Turks and Caicos Islands","Turks and Caicos Islands","Americas","Caribbean","Cockburn Town",31458,948
+"TUV","Tuvalu","Tuvalu","Tuvalu","Oceania","Polynesia","Funafuti",10640,26
+"VIR","U.S. Virgin Islands","U.S. Virgin Islands","Virgin Islands of the United States","Americas","Caribbean","Charlotte Amalie",103574,346
+"UGA","Uganda","Uganda","Republic of Uganda","Africa","Eastern Africa","Kampala",34856813,241550
+"UKR","Ukraine","Україна","Ukraine","Europe","Eastern Europe","Kiev",42836922,603700
+"ARE","United Arab Emirates","دولة الإمارات العربية المتحدة","United Arab Emirates","Asia","Western Asia","Abu Dhabi",9157000,83600
+"USA","United States of America","United States","United States of America","Americas","Northern America","Washington, D.C.",321645000,9629091
+"URY","Uruguay","Uruguay","Oriental Republic of Uruguay","Americas","South America","Montevideo",3415866,181034
+"UZB","Uzbekistan","O‘zbekiston","Republic of Uzbekistan","Asia","Central Asia","Tashkent",31022500,447400
+"VUT","Vanuatu","Vanuatu","Republic of Vanuatu","Oceania","Melanesia","Port Vila",264652,12189
+"VAT","Vatican City","Citta del Vaticano","Vatican City State","Europe","Southern Europe","Valitan City",1000,1
+"VEN","Venezuela","Venezuela","Bolivarian Republic of Venezuela","Americas","South America","Caracas",30620404,916445
+"VNM","Vietnam","Việt Nam","Socialist Republic of Vietnam","Asia","South-Eastern Asia","Hanoi",91812000,331212
+"WAL","Wales","Wales","Wales","Europe","Northern Europe","Cardiff",3063456,20779
+"WLF","Wallis and Futuna","Wallis et Futuna","Territory of the Wallis and Futuna Islands","Oceania","Polynesia","Mata-Utu",13135,142
+"ESH","Western Sahara","الصحراء الغربية","Western Sahara","Africa","Northern Africa","El Aaiún",510713,266000
+"YEM","Yemen","اليَمَن","Republic of Yemen","Asia","Western Asia","Sana'a",25956000,527968
+"ZMB","Zambia","Zambia","Republic of Zambia","Africa","Eastern Africa","Lusaka",15473905,752612
+"ZWE","Zimbabwe","Zimbabwe","Republic of Zimbabwe","Africa","Eastern Africa","Harare",13061239,390757
